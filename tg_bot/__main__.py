@@ -20,6 +20,9 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 PM_START_TEXT = """
 
 Hello {},My Name is {} !. 
+I am a modular telegram group management bot
+I have many Functions
+Discover them by /help
 
 I'm Filter Manager Bot Maintained By [Him](https://t.me/lolboyisback). 
 
